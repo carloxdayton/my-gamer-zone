@@ -14,6 +14,10 @@ Projeto construído no evento Next Level Week da Rocketseat
 - CSS
 - Git e GitHub
 
+## O que aprendi
+
+aprendi a colocar as listas, separar as divs, colocar imagens e links e a modificar toda a aparência do site usando CSS
+
 ## 💚 Contatos
 
 ffdayton365@gmail.com 
